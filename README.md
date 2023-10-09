@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors-Game
 
-### Decision page project for friends and family.
+### Decision game project for friends and family.
 
 ## project makeup.
 The project is madeup of html, css, and javaScript. The first technology is used for the page structure which consist of title, header and body of the web application and also links to external files, such as css link and javaScript link. css file is used for the page decoration while javaScript file is used for web functionality.
